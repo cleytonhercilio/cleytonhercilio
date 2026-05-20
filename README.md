@@ -28,6 +28,21 @@ dev = {
 </div>
 
 ---
+###
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-five-tau-14.vercel.app/api?username=cleytonhercilio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&count_private=true"/>
+<img height="180em" src="https://SUA-URL.vercel.app/api/top-langs/?username=cleytonhercilio&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=cleytonhercilio&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7"/>
+
+</div>
+
+---
 
 ### 🌐 Como encontrar-me
 
@@ -36,5 +51,13 @@ dev = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleytonascimento)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herciliocleyton@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleyton.cyber/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
 
 </div>
