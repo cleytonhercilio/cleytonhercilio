@@ -10,7 +10,6 @@
 </div>
  
 ### 👨‍💻 Sobre mim
-
 ```python
 dev = {
     "nome":      "Cleyton Hercílio",
@@ -19,4 +18,23 @@ dev = {
     "foco":      "Aplicações web robustas e escaláveis",
     "objetivo":  "Sempre aprendendo e evoluindo 🚀",
 }
-###
+```
+### 🛠️ Tech Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,html,css,postgresql,git,docker,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 🌐 Como encontrar-me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleytonascimento)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herciliocleyton@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleyton.cyber/)
+
+</div>
