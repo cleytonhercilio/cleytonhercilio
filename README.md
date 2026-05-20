@@ -31,7 +31,7 @@ dev = {
 ###
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-five-tau-14.vercel.app/api?username=cleytonhercilio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-five-tau-14.vercel.app/api?username=cleytonhercilio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&count_private=true&rank_icon=github"/>
 </div>
 
 <div align="center">
